@@ -1,0 +1,22 @@
+{
+  "name": "hack20",
+  "version": "1.0.0",
+  "description": "The goal for the Hackathon Jan 2020 for Lambda School\r The goal is to create an app to help you return your library books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lillialskye/Hack20.git"
+  },
+  "author": "Tiffany Robbins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lillialskye/Hack20/issues"
+  },
+  "homepage": "https://github.com/lillialskye/Hack20#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
